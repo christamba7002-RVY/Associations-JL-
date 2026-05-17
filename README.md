@@ -185,5 +185,3 @@ Ce projet est sous licence MIT. Libre d'utilisation pour des associations à but
 ---
 
 *Fait avec ❤️ pour la jeunesse africaine.*
-# Associations-JL-
-site web de L'AJL 
